@@ -427,9 +427,9 @@
 			(pintype "passive")
 			(uuid "5f4f3ee4-7bdb-479f-9698-306a457fb1bd")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1147,6 +1147,17 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/Seeed Studio XIAO RP2040 v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -7507,9 +7518,9 @@
 			(pintype "passive")
 			(uuid "b3e2ef58-1b49-4b97-8a39-7c675e891b9a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7830,9 +7841,9 @@
 			(pintype "passive")
 			(uuid "d46a8aed-78fa-4d96-aded-48807c71df1a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8945,9 +8956,9 @@
 			(pintype "passive")
 			(uuid "ba398a34-52f1-4bef-985a-ff2906138a3d")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -9409,15 +9420,15 @@
 			(pintype "passive")
 			(uuid "5ca1f92f-8b68-419e-ab88-2c1a995a1aa4")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
+		(model "${KIPRJMOD}/EC11_Rotary_Encoder_Switched.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.5 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 0 0 90)
 			)
 		)
 	)
@@ -10524,9 +10535,9 @@
 			(pintype "passive")
 			(uuid "ed836b13-969e-405e-8642-6376d0dbd042")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -11966,6 +11977,17 @@
 			(pintype "passive")
 			(uuid "d07deba3-b7e6-46a4-9a1b-c578a6da8a64")
 		)
+		(model "${KIPRJMOD}/OLED 128 x 32 Display Assembly.step"
+			(offset
+				(xyz 19 -6 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -12278,9 +12300,9 @@
 			(pintype "passive")
 			(uuid "9a2b4d07-0f36-4231-ba69-fa5ec4560297")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -13008,6 +13030,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -13320,9 +13353,9 @@
 			(pintype "passive")
 			(uuid "39c73709-a2e0-4968-8148-df188410b4ed")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.wrl"
+		(model "${KIPRJMOD}/SW_Cherry_MX_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
